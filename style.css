@@ -34,6 +34,10 @@
 .about-section-box{
 	padding: 70px 0px;
 }
+video {
+    vertical-align: middle;
+    border-style: none; 
+  }
 .abt{
     background-color: black;
    
